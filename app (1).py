@@ -1,3 +1,0 @@
-git add app.py
-git commit -m 'Add application file'
-git push
